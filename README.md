@@ -1,4 +1,4 @@
-# data-model
+# A Data Model and Partial Implementation of a Software System: The Technical Academy Case Study
 
 The proposed data model is for a Technical Academy case study. 
 
