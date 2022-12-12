@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Tech Academy ER Diagram" id="5D224372-D0EF-A46A-0A84-9E6595F5FD3B" version="3.5">
+<createdBy>Prof David Malgwi</createdBy>
+<createdTime>2021-12-01 15:47:13 UTC</createdTime>
+<ownerDesignName>Tech Academy ER Diagram</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>5D224372-D0EF-A46A-0A84-9E6595F5FD3B</designId>
+</OSDM_Design>
